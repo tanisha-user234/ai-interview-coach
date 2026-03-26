@@ -1,0 +1,43 @@
+{
+    "kind": "collectionType",
+    "collectionName": "interview_questions",
+    "info": {
+        "singularName": "interview-question",
+        "pluralName": "interview-questions",
+        "displayName": "Interview Question",
+        "description": "Questions for the AI Interview Coach"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "question": {
+            "type": "text",
+            "required": true
+        },
+        "category": {
+            "type": "enumeration",
+            "enum": [
+                "Behavioral",
+                "Technical",
+                "Situational",
+                "Coding"
+            ],
+            "default": "Behavioral",
+            "required": true
+        },
+        "difficulty": {
+            "type": "enumeration",
+            "enum": [
+                "Easy",
+                "Medium",
+                "Hard"
+            ],
+            "default": "Medium"
+        },
+        "expectedAnswer": {
+            "type": "richtext"
+        }
+    }
+}

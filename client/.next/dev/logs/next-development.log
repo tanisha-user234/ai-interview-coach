@@ -1,0 +1,46 @@
+[00:00:12.884] Server  LOG     ✓ Ready in 9.4s
+[00:00:16.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:54.695] Server  LOG     ○ Compiling /learn ...
+[00:00:55.523] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'title')
+[00:00:56.263] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:56.263] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'title')
+[00:03:50.659] Server  LOG     ✓ Compiled in 2.4s
+[00:03:51.125] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'excerpt')
+[00:03:51.587] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:51.589] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'excerpt')
+[00:03:54.949] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:23.243] Server  LOG     ✓ Compiled in 192ms
+[00:04:24.266] Server  LOG     ✓ Compiled in 565ms
+[00:05:21.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:40.424] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:48.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:43.319] Server  LOG     ✓ Compiled in 136ms
+[00:07:54.421] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:54.562] Server  LOG     ✓ Compiled in 636ms
+[00:07:58.327] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:05.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:07.231] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:08.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:39.870] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:44.277] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:50.292] Browser ERROR   Failed to start session: {}
+[00:10:50.293] Browser ERROR   Failed to start session: {}
+[00:10:55.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:55.293] Browser ERROR   Failed to start session: {}
+[00:14:22.887] Server  LOG     ✓ Compiled in 337ms
+[00:14:25.001] Server  LOG     ✓ Compiled in 527ms
+[00:14:37.033] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:37.525] Browser ERROR   Failed to start session: {}
+[00:15:17.215] Server  LOG     ✓ Compiled in 781ms
+[00:16:47.585] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:09.094] Server  LOG     ✓ Compiled in 400ms
+[00:19:30.265] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:30.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:58.735] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:24.767] Browser ERROR   Evaluation failed {}
+[00:33:48.361] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:20.355] Browser ERROR   Evaluation failed {}
+[00:37:50.709] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:20.888] Browser ERROR   Evaluation failed {}
+[00:41:12.143] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:24.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

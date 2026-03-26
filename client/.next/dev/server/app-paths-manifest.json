@@ -1,0 +1,8 @@
+{
+  "/gym/behavioral/page": "app/gym/behavioral/page.js",
+  "/gym/page": "app/gym/page.js",
+  "/gym/technical/page": "app/gym/technical/page.js",
+  "/learn/page": "app/learn/page.js",
+  "/page": "app/page.js",
+  "/practice/page": "app/practice/page.js"
+}
